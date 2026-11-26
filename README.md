@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="assets/antigravity-ru-hero.png" width="100%" alt="Antigravity RU">
@@ -7,7 +6,7 @@
 
 ### Google Antigravity — теперь на русском языке
 
-[![Download](https://img.shields.io/badge/СКАЧАТЬ-РУСИФИКАТОР-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/LexesttGPT/antigravity-ru/releases/download/v0.6.1-beta/Antigravity_RU_0.6.1_Beta.zip)
+[![Скачать русификатор](assets/download.svg)](https://github.com/LexesttGPT/antigravity-ru/releases/download/v0.6.1-beta/Antigravity_RU_0.6.1_Beta.zip)
 
 [![Version](https://img.shields.io/badge/Version-0.6.1_Beta-blue?style=flat-square)](https://github.com/LexesttGPT/antigravity-ru/releases)
 ![Platform](https://img.shields.io/badge/Windows-x64-0078D4?style=flat-square)
@@ -20,7 +19,7 @@
 
 **Бесплатно · Открытый исходный код · Без дополнительных зависимостей**
 
-[Скачать](https://github.com/LexesttGPT/antigravity-ru/releases) • [Установка](#-установка) • [Безопасность](#-безопасность) • [English](#english)
+[Скачать](https://github.com/LexesttGPT/antigravity-ru/releases/download/v0.6.1-beta/Antigravity_RU_0.6.1_Beta.zip) • [Установка](#-установка) • [Безопасность](#-безопасность) • [English](#english)
 
 </div>
 
@@ -76,9 +75,11 @@
 | Параметр | Значение |
 |---|---|
 | Операционная система | Windows x64 |
-| Проверенная версия Antigravity | 2.35.1 |
+| Проверенные версии Antigravity | 2.35.1, 2.35.2 |
 | Версия русификатора | 0.6.1 Beta |
 | Подключение к интернету для установки | Не требуется |
+
+> ✅ Установка и работа русификатора на Antigravity 2.35.2 подтверждены практическим тестированием 26 ноября 2026 года. Обновление самого русификатора не потребовалось.
 
 Поддержка будущих версий зависит от совместимости архитектуры приложения. Полный перевод новых элементов интерфейса не гарантируется.
 
@@ -149,9 +150,13 @@ go test -v ./...
 
 ### Installation
 
-Download the ZIP archive from [Releases](https://github.com/LexesttGPT/antigravity-ru/releases), extract it, save your work, run the executable and select Install / Update.
+[Download the ZIP archive](https://github.com/LexesttGPT/antigravity-ru/releases/download/v0.6.1-beta/Antigravity_RU_0.6.1_Beta.zip), extract it, save your work, run the executable and select Install / Update.
 
-Tested baseline: Antigravity 2.35.1. Future versions may require compatibility updates. The executable is unsigned and distributed as a beta.
+Tested versions: Antigravity 2.35.1 and 2.35.2.
+
+Compatibility with Antigravity 2.35.2 was confirmed through practical testing on November 26, 2026, without requiring an update to the localization tool.
+
+Future versions may require compatibility updates. The executable is unsigned and distributed as a beta.
 
 This independent community project is not affiliated with or endorsed by Google.
 
